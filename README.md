@@ -16,7 +16,7 @@
 
 ## 🌱 **Collaborating** on **data-driven projects** and creating **visualizations** that turn raw numbers into meaningful insights! 💡
 
-💬 **Ask me about**: Data analysis in Finance & Pensions, transforming data into stories.
+💬 **Ask me about**: Transforming data into stories using Data analysis.
 
 📫 **Let’s Connect**: [anitadolly2510@gmail.com](mailto:anitadolly2510@gmail.com) ✨
 
