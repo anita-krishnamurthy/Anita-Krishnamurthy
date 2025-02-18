@@ -2,7 +2,6 @@
 
 # 🎉 Hey there, I’m Anita! 🎉
 
-![Profile Image](https://example.com/your-image.jpg) <!-- Insert your image link here -->
 
 ## 💼 Former Finance & Pensions Pro turned **Data Analyst** 🚀
 
